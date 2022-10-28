@@ -11,7 +11,8 @@ def assingment():
    work = { "name": "Rabo Bature",
            "username": "RBJ",
            "address": "Manchok",
-           "Phone number": "08100561772", }
+           "Phone number": +2348100561772,
+           "email":"rabobature@gmail.com"}
    return json.dumps(work)
 
 
